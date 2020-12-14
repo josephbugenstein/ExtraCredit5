@@ -1,0 +1,1 @@
+US Earthquakes Imagery Map (epicenters, ruptures, mercalli intesnity).
